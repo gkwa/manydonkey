@@ -10,7 +10,7 @@ require (
 	github.com/go-logr/zerologr v1.2.3
 	github.com/google/go-containerregistry v0.21.3
 	github.com/magefile/mage v1.17.0
-	github.com/mattn/go-sqlite3 v1.14.37
+	github.com/mattn/go-sqlite3 v1.14.38
 	github.com/rs/zerolog v1.35.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
