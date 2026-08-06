@@ -8,7 +8,7 @@ require (
 	github.com/go-logr/logr v1.4.4
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-logr/zerologr v1.2.3
-	github.com/google/go-containerregistry v0.21.8
+	github.com/google/go-containerregistry v0.21.9
 	github.com/magefile/mage v1.17.2
 	github.com/mattn/go-sqlite3 v1.14.49
 	github.com/rs/zerolog v1.35.1
